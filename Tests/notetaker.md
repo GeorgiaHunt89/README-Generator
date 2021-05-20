@@ -24,6 +24,9 @@
         ## Heroku Deployment Link
         https://gh-note-taker.herokuapp.com/
 
+        ## Walkthrough
+        
+
         ## Questions
         I would love to hear your feedback, please don't hesitate to contact me via email at [georgialhunt89@gmail.com](mailto;georgialhunt89@gmail.com) or visit my profile on [GitHub](https://github.com/georgiahunt89)
         
