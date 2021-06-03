@@ -21,33 +21,33 @@ tableOfContents.forEach((item, data) => {
 //Function to create README
 function template(data) {
     return `
-        ##${data.title}
-        ${data.license}
-        ${tableOfContents}
+# ${data.title}
+${data.license}
+${tableOfContents}
 
-        ## Description
-        ${data.description}
+## Description
+${data.description}
 
-        ## Installation Instructions
-        ${data.installation} 
+## Installation Instructions
+${data.installation} 
 
-        ## Usage Information
-        ${data.usage} 
+## Usage Information
+${data.usage} 
 
-        ## Contributors
-        ${data.contributors}
+## Contributors
+${data.contributors}
 
-        ## Test Instructions
-        ${data.testing} 
+## Test Instructions
+${data.testing} 
 
-        ## Deployment Link
-        ${data.deployment}
+## Deployment Link
+${data.deployment}
 
-        ## Questions
-        I would love to hear your feedback, please don't hesitate to contact me via email at [${data.email}](mailto;${data.email}) or visit my profile on [GitHub](https://github.com/${data.github})
+## Questions
+I would love to hear your feedback, please don't hesitate to contact me via email at [${data.email}](mailto;${data.email}) or visit my profile on [GitHub](https://github.com/${data.github})
         
-        ##License
-        This project is protected under ${data.license}, please read through the license terms and conditions.
+## License
+This project is protected under ${data.license}, please read through the license terms and conditions.
     `
 }
 
