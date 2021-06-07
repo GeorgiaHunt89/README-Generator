@@ -29,7 +29,7 @@ Right click to Open Intergrated Terminal and run ``'node index.js'`` to begin, t
 The following video link demonstrates how to create a README file in Intergrated Terminal. [README Application Walkthrough](https://www.loom.com/share/d64d78b78b124a44a0c9ace529b73d24)
 
 ## Contributors
-Georgia Hunt, if you would like to be a contributing partner please contact me via the email listed below.
+Georgia Hunt
 
 ## Test Instructions
 To test the application, follow the installation instructions and usage guides, then insert different inputs into the required section to create multiple README tests. 
